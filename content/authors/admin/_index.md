@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: André Vignatti
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: André 
+last_name: Vignatti
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🎸
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: UFPR
+    url: https://ufpr.br/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:vignatti@inf.ufpr.br'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,9 +47,10 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Design and Analysis of Algorithms
+  - Randomized Computation
+  - Complex Networks
+  - Theoretical Computer Science
 
 education:
   - area: PhD Artificial Intelligence
@@ -183,4 +184,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+André Vignatti is an associate professor at DINF-UFPR since 2011. His research seeks to discover the role of randomization in computational problems and the design of algorithms. For more details, you can read a short bibliography
